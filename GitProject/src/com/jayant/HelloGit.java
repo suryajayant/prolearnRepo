@@ -8,7 +8,8 @@ public class HelloGit {
 		System.out.println("Wow");
 
 		// Jayant Kumar Surya
-		System.out.println("How are you Git I am fine...");
+		System.out.println("Change Done by Developer2");
+		System.out.println("Extra Line Added by 2");
 
 	}
 }
